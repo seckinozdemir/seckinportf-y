@@ -253,21 +253,21 @@ Fotoğrafçılık, web tasarım, video tasarım, sosyal medya çalışmalarımı
                         </div>
                     </div>
                     <div class="portfolio-item">
-                        <img src="Ekran görüntüsü 2026-08-31 221902.jpg" alt="Martı ve Göl" onclick="openLightbox(this)">
+                        <img src="Ekran görüntüsü 2026-08-31 221902.png" alt="Martı ve Göl" onclick="openLightbox(this)">
                         <div class="portfolio-item-body">
                             <h3>Göl Kenarı ve Özgürlük</h3>
                             <p>Doğa, su yansıması ve uçan martının minimalist siyah-beyaz kompozisyonu.</p>
                         </div>
                     </div>
                     <div class="portfolio-item">
-                        <img src="Ekran görüntüsü 2026-08-31 222114.jpg" alt="Oyuncak Kamyonet" onclick="openLightbox(this)">
+                        <img src="Ekran görüntüsü 2026-08-31 222114.png" alt="Oyuncak Kamyonet" onclick="openLightbox(this)">
                         <div class="portfolio-item-body">
                             <h3>Retro Oyuncak Makro Çekim</h3>
                             <p>Sığ derinlik alanı (DoF) ile doğa içinde ürün/obje odaklı konsept çalışması.</p>
                         </div>
                     </div>
                     <div class="portfolio-item">
-                        <img src="Ekran görüntüsü 2026-08-31 222159.jpg" alt="Orman Yansıması Panoraması" onclick="openLightbox(this)">
+                        <img src="Ekran görüntüsü 2026-08-31 222159.png" alt="Orman Yansıması Panoraması" onclick="openLightbox(this)">
                         <div class="portfolio-item-body">
                             <h3>Sonbahar ve Yansıma Panoraması</h3>
                             <p>Renk paleti dönüşümü ve su yüzeyi simetrisini vurgulayan üçlü kompozisyon.</p>
